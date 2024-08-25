@@ -1,15 +1,23 @@
+<div align="center">
+
+<p>
+	<a href="https://www.apollographql.com/"><img src="https://raw.githubusercontent.com/apollographql/apollo-client-devtools/a7147d7db5e29b28224821bf238ba8e3a2fdf904/assets/apollo-wordmark.svg" height="100" alt="Apollo Client"></a>
+</p>
+
+</div>
+
 # GraphQL Integration in Android with Kotlin and Apollo
 
 ## Overview
 
-This repository demonstrates the integration of GraphQL into an Android application using Kotlin and the Apollo GraphQL client. The example app fetches country names from a GraphQL API and displays them in a RecyclerView.
+This repository demonstrates how to integrate GraphQL into an Android application using Kotlin and the Apollo GraphQL client. The example app fetches country names from a GraphQL API and displays them in a RecyclerView.
 
 ## Features
 
-- **GraphQL Integration**: Efficient data fetching using GraphQL.
-- **Apollo Client**: Utilizes Apollo for GraphQL queries.
+- **GraphQL Integration**: Fetch only the data you need with GraphQL.
+- **Apollo Client**: Efficiently handles GraphQL queries and responses.
 - **Dependency Injection**: Configured with Dagger Hilt.
-- **Modern UI**: Displays data using RecyclerView.
+- **Modern UI**: Simple and responsive interface using RecyclerView.
 
 ## Setup
 
@@ -33,12 +41,4 @@ dependencies {
     implementation("androidx.fragment:fragment-ktx:version.number")
 }
 
-## Implementation
-Dependency Injection: Configured using Dagger Hilt.
-Repository: Manages data fetching with Apollo.
-ViewModel: Handles data and updates the UI.
-UI: Displays data in a RecyclerView with a simple layout.
-
-## Screenshot
-![image](https://github.com/user-attachments/assets/ffc7914a-2fdf-4274-9c37-6619e1a9d273)
 

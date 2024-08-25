@@ -16,6 +16,10 @@ This repository demonstrates how to integrate GraphQL into an Android applicatio
 
 <img src="https://github.com/myofficework000/GraphQLDemo/blob/master/app/src/main/assets/img.png" alt="App Screenshot" />
 
+## Learn More
+
+For a detailed guide on integrating GraphQL into Android using Apollo, check out the [Medium article](https://medium.com/@myofficework000/graphql-in-android-using-apollo-c4d5170581d1).
+
 ## Features
 
 - **GraphQL Integration**: Fetch only the data you need with GraphQL.

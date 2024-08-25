@@ -12,6 +12,10 @@
 
 This repository demonstrates how to integrate GraphQL into an Android application using Kotlin and the Apollo GraphQL client. The example app fetches country names from a GraphQL API and displays them in a RecyclerView.
 
+## Screenshot
+
+<img src="https://github.com/myofficework000/GraphQLDemo/blob/master/app/src/main/assets/img.png" alt="App Screenshot" />
+
 ## Features
 
 - **GraphQL Integration**: Fetch only the data you need with GraphQL.
@@ -40,5 +44,7 @@ dependencies {
     kapt("com.google.dagger:hilt-compiler:version.number")
     implementation("androidx.fragment:fragment-ktx:version.number")
 }
+
+
 
 

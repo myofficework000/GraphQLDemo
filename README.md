@@ -38,3 +38,7 @@ Dependency Injection: Configured using Dagger Hilt.
 Repository: Manages data fetching with Apollo.
 ViewModel: Handles data and updates the UI.
 UI: Displays data in a RecyclerView with a simple layout.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/ffc7914a-2fdf-4274-9c37-6619e1a9d273)
+

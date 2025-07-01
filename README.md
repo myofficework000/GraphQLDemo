@@ -25,7 +25,7 @@ For a detailed guide on integrating GraphQL into Android using Apollo, check out
 - **GraphQL Integration**: Fetch only the data you need with GraphQL.
 - **Apollo Client**: Efficiently handles GraphQL queries and responses.
 - **Dependency Injection**: Configured with Dagger Hilt.
-- **Modern UI**: Simple and responsive interface using RecyclerView.
+- **RecyclerView**: Simple and responsive interface using RecyclerView.
 
 ## Setup
 

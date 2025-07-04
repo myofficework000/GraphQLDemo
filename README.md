@@ -6,7 +6,7 @@
 
 </div>
 
-# GraphQL Integration in Android with Kotlin and Apollo
+# GraphQL Integration in Android using Apollo
 
 ## Overview
 
